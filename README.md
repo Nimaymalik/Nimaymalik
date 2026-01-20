@@ -1,16 +1,32 @@
-## Hi there 👋
+👋 Hi, I’m Nimay Malik
 
-<!--
-**Nimaymalik/Nimaymalik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Final-year IT student (2026 batch) from Agra, India
+💻 Aspiring Full Stack Web Developer
+🚀 Passionate about building scalable web applications and learning new technologies
 
-Here are some ideas to get you started:
+🧑‍💻 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔹 Currently pursuing B.Tech in Information Technology
+
+🔹 Strong interest in Web Development & Software Engineering
+
+🔹 Hands-on experience with Frontend & Backend technologies
+
+🔹 Preparing for product-based & service-based company interviews
+
+🔹 Curious about Blockchain & Crypto technologies
+
+🌐 Socials:
+Instagram LinkedIn X email
+
+💻 Tech Stack:
+C CSS3 HTML5 Java JavaScript TypeScript Netlify Vercel Vultr Render Firebase Bootstrap Express.js NPM MUI Next JS NodeJS Nodemon React Vue.js TailwindCSS Yarn Postgres MySQL MongoDB Canva Supabase OpenSea Postman Prettier Epic Games
+
+📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Nimay Malik&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
+
+![](https://nirzak-streak-stats.vercel.app/?user=Nimay Malik&theme=dark&hide_border=false)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Nimay Malik&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+![](https://visitcount.itsvg.in/api?id=Nimay Malik&icon=0&color=0)
